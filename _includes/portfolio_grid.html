@@ -12,13 +12,13 @@
                 {% for page in site.pages | sort: 'homepage', 'last' %}
                 {% if page.homepage %}
                     <div class="col-sm-4 portfolio-item">
-                        <a href="{{ page.permalink }}" class="portfolio-link">
+                        <a href="{{ page.permalink | relative_url }}" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x">{{ page.title }}</i>
                                 </div>
                             </div>
-                            <img src="img/produkte/{{ page.image }}" class="img-responsive" alt="{{ page.title }}">
+                            <img src="{{ "img/produkte/" | append: page.image | relative_url}}" class="img-responsive" alt="{{ page.title }}">
                         </a>
                     </div>
                 {% endif %} 
