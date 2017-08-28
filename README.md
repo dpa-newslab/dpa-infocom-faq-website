@@ -4,12 +4,13 @@ Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachau
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
 ## How to use
- - Place a image in `/img/produkte/`
+
+New page in portfolio grid on homepage: 
 
 ```txt
 ---
 title: Produkt 01
-homepage: 01
+homepage: 1
 permalink: /pr1/
 image: produkt01.png
 ---
@@ -20,6 +21,25 @@ image: produkt01.png
 
 ```
 
+New page in navigation:
+
+```txt
+
+---
+layout: default
+title: Über diese Website
+navigation: 1
+permalink: /about/
+---
+
+#  {{ page.title }}
+
+.....
+
+......
+
+```
+ - Place a image in `/img/produkte/`
 ## Inspired by 
 This theme: [here](https://jeromelachaud.github.io/freelancer-theme)
 
