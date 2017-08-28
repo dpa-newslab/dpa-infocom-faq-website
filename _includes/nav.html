@@ -21,7 +21,7 @@
                     {% for page in site.pages | sort: 'navigation', 'last' %}
                     {% if page.navigation %}
                     <li>
-                        <a href="{{ page.permalink }}">{{ page.title }}</a>
+                        <a href="{{ page.permalink | relative_url }}">{{ page.title }}</a>
                     </li>
                     {% endif %} 
                     {% endfor %}
