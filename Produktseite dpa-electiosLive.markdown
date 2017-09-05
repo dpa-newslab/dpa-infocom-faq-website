@@ -1,9 +1,9 @@
 ---
 layout: default
-title: eletionsLive
+title: electionsLive
 homepage: 03
-permalink: /eletionsLive/
-image: iconEletionslive.png
+permalink: /electionsLive/
+image: iconElectionslive.png
 ---
 
 # {{ page.title }}
