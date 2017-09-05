@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Produkt 01
+title: weblines
 homepage: 01
 permalink: /weblines/
 image: iconWeblines.png
