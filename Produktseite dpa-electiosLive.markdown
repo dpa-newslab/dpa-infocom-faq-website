@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Produkt 03
+title: eletionsLive
 homepage: 03
-permalink: /pr3/
-image: produkt03.png
+permalink: /eletionsLive/
+image: iconEletionslive.png
 ---
 
 # {{ page.title }}
