@@ -1,6 +1,6 @@
 ---
 layout: default
-title: electionsLive
+title: sportsLive
 homepage: 04
 permalink: /sportsLive/
 image: iconSportslive.png
