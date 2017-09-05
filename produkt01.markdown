@@ -3,7 +3,7 @@ layout: default
 title: Produkt 01
 homepage: 01
 permalink: /pr1/
-image: produkt01.png
+image: iconWeblines.png
 ---
 
 # {{ page.title }}
