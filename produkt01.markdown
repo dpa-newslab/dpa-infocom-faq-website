@@ -2,7 +2,7 @@
 layout: default
 title: Produkt 01
 homepage: 01
-permalink: /pr1/
+permalink: /weblines/
 image: iconWeblines.png
 ---
 
