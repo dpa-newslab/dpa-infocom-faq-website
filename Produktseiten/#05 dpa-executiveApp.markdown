@@ -8,8 +8,8 @@ image: iconWeblines.png
 
 # {{ page.title }}
 
-# Die mobile Plattform für Ihren Nachrichtenüberblick
-# Mit dpa-Executive steht Ihnen ab sofort die Nachrichtenwelt der dpa jederzeit und überall zur Verfügung.
+## Die mobile Plattform für Ihren Nachrichtenüberblick
+## Mit dpa-Executive steht Ihnen ab sofort die Nachrichtenwelt der dpa jederzeit und überall zur Verfügung.
 
 Sie erhalten neben einem 24-Stunden-Newsticker auch alle aktuellen Eilmeldungen als Push-Mitteilungen, die TopNews des Tages und das Wichtigste unter anderem aus der Wirtschaft und der Politik. 
 
