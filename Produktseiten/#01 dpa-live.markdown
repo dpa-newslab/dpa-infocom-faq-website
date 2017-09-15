@@ -1,8 +1,8 @@
 ---
 layout: default
-title: dpaLive
+title: dpa-live
 homepage: 02
-permalink: /dpaLive/
+permalink: /dpa-live/
 image: iconLive.png
 ---
 
